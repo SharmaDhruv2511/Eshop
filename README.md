@@ -1,6 +1,9 @@
-# shoppingapp
+# Eshop (Shopping App)
 
-A new Flutter project.
+Shop hassle-free with our Eshop mobile app. Discover a vast selection of products, from 
+electronics to fashion and more. Enjoy a seamless browsing experience, user-friendly interface, and 
+secure payment options. Receive exclusive deals and discounts. Admin can perform the CRUD operations 
+with the help of user-friendly Admin Panel
 
 ## Getting Started
 
